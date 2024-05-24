@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvanadeTheFuture", "AvanadeTheFuture\AvanadeTheFuture.csproj", "{BAA7918D-3537-406D-8B39-5767ED37494E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAvanadeTheFuture", "TestAvanadeTheFuture\TestAvanadeTheFuture.csproj", "{9BD2878F-68E4-46AA-95EC-7888AB7D817D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA7918D-3537-406D-8B39-5767ED37494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA7918D-3537-406D-8B39-5767ED37494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA7918D-3537-406D-8B39-5767ED37494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA7918D-3537-406D-8B39-5767ED37494E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD2878F-68E4-46AA-95EC-7888AB7D817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD2878F-68E4-46AA-95EC-7888AB7D817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD2878F-68E4-46AA-95EC-7888AB7D817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD2878F-68E4-46AA-95EC-7888AB7D817D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF37655-CD9B-4914-AC42-21B304107C77}
+	EndGlobalSection
+EndGlobal
